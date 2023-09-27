@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahdi Ben Messaoud</h1>
 <h3 align="center">A passionate Web and Mobile developer </h3>
-
+<br/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -17,8 +17,20 @@
 
 - 📄 Know about my experiences <a href="https://github.com/mahdibenmessaoud-dev/Me.io/blob/main/Resume%20MAHDI%20BEN%20MESSAOUD.pdf" target="blank">Resume</a>
 <br/>
-
 <br/>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,astro,vue,angular,express,nodejs,c,java,py,mysql,postgres,mongodb,figma,prisma,linux,git,github,aws&perline=14" />
+  </a>
+</p>
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
