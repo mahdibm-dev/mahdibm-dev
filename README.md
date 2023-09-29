@@ -38,9 +38,9 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mahdi-ben-messaoud/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/mahdibenmessaoud-dev">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/mahdibm-dev">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/mahdibenmessaoud-dev/Me.io/blob/main/Resume%20MAHDI%20BEN%20MESSAOUD.pdf">
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/mahdibm-dev/Me.io/blob/main/Resume%20MAHDI%20BEN%20MESSAOUD.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
@@ -48,6 +48,6 @@
 
 ---
 
-Credit: [Mahdi Ben Messaoud](https://github.com/mahdibenmessaoud-dev)
+Credit: [Mahdi Ben Messaoud](https://github.com/mahdibm-dev)
 
 Last Edited on: 27/09/2023
