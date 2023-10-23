@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Working on a Mobile App (React-Native)
 
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS and Spring Boot
 
 - 💬 Ask me about **Reactjs & React-Native**
 
