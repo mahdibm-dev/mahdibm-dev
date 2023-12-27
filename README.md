@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" >Connect with me 🤝</h3>
 
 <p align="center">
 
@@ -42,8 +42,6 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/mahdibm-dev">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/mahdibm-dev/Me.io/blob/main/Resume%20MAHDI%20BEN%20MESSAOUD.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
 </p>
