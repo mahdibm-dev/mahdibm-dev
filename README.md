@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web and Mobile developer </h3>
 <br/>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/mahdibm-dev/Me.io/blob/main/Animation%20-%20samar.gif">
 </a>
 
 - 🔭 I’m currently working in <a href="https://nna-ressources.com/" target="blank">NNA RESSOURCES</a>
