@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently Working on a Mobile App (React-Native)
 
-- 🌱 I’m currently learning Vuejs
-
 - 💬 Ask me about **Reactjs & React-Native**
 
 - 📫 How to reach me **mahdibenmassoud98@gmail.com**
@@ -29,7 +27,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,tailwind,js,ts,react,redux,flutter,nextjs,astro,vue,angular,express,nodejs,c,java,py,mysql,postgres,mongodb,figma,prisma,linux,git,github,aws&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,js,ts,nodejs,mysql,mongodb,figma,arch,git&perline=14" />
   </a>
 </p>
 
