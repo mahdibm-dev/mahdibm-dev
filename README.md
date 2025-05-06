@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahdibenmassoud98@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/mahdibenmessaoud-dev/Me.io/blob/main/Resume%20MAHDI%20BEN%20MESSAOUD.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/mahdibenmessaoud-dev/Me.io/blob/main/Mahdi-Ben-Messaoud-Resume-20250506.pdf" target="blank">Resume</a>
 <br/>
 <br/>
 <br/>
