@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahdi Ben Messaoud</h1>
-<h3 align="center">A passionate Web and Mobile developer </h3>
+<h3 align="center">A passionate FrontEnd developer </h3>
 <br/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="400" width="400" alt="GIF" src="https://github.com/mahdibm-dev/Me.io/blob/main/animation_500_kxa883sd.gif">
