@@ -5,11 +5,7 @@
   <img align="right" top="500" height="400" width="400" alt="GIF" src="https://github.com/mahdibm-dev/Me.io/blob/main/animation_500_kxa883sd.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://nna-ressources.com/" target="blank">NNA RESSOURCES</a>
-
-- 🌱 I’m currently Working on a Mobile App (React-Native)
-
-- 💬 Ask me about **Reactjs & React-Native**
+- 🔭 I’m currently working in JoodLab
 
 - 📫 How to reach me **mahdibenmassoud98@gmail.com**
 
