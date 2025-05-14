@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **mahdibenmassoud98@gmail.com**
 
+- 📫 My <a href="https://gitlab.com/mahdibenmassoud98" target="blank">GitLab</a>
+
 - 📄 Know about my experiences <a href="https://github.com/mahdibenmessaoud-dev/Me.io/blob/main/Mahdi-Ben-Messaoud-Resume-20250506.pdf" target="blank">Resume</a>
 <br/>
 <br/>
